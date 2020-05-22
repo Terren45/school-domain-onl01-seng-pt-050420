@@ -16,7 +16,8 @@ def initialize(name)
   end
   
   def sort 
-    @roster.sort
+    sorted = {}
+    
   end
 end
     
