@@ -15,4 +15,9 @@ def initialize(name)
     @roster[grade]
   end
   
+  def sort 
+    @rostre[] = .sort
+  end
+end
+    
 end
