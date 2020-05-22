@@ -16,7 +16,7 @@ def initialize(name)
   end
   
   def sort 
-    @rostre[] = .sort
+    @roster.sort
   end
 end
     
