@@ -21,6 +21,5 @@ def initialize(name)
       sorted[grade] = student.sort
   end
   sorted
+  end
 end
-    
-    
