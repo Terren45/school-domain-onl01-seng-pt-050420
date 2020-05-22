@@ -17,7 +17,7 @@ def initialize(name)
   
   def sort 
     sorted = {}
-    
+    roster.each do |grade
   end
 end
     
